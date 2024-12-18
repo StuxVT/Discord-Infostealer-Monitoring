@@ -1,8 +1,8 @@
 ![image](https://github.com/StuxVT/SonicGlyde-Discord-Malware/assets/100985218/8171e62f-5c13-40c0-9ce5-5647c7d9dcee)
 
-# SonicGlyde-Discord-Malware (Epsilon-Stealer Variant)
+# SonicGlyde-Discord-Malware (Epsilon/Duvet-Stealer Variant)
 
-Recent updates of this malware have exposed that this is a variant of epsilon stealer.
+Recent updates of this malware have exposed that this is a variant of epsilon stealer. There is a signature from Epsilon group in the stage 2 payload. However others have identified this as "Duvet" Stealer as well.
 
 A few of my friends got hit by this malware. Decided to reverse it to see what is under the hood.
 
